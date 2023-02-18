@@ -1,0 +1,63 @@
+{
+  "login": [
+    {
+      "id": 1
+    },
+    {
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "email": "dfgdf@fghfh",
+      "pass": "54646",
+      "id": 2
+    },
+    {
+      "email": "jonathanzdebski@yahoo.com",
+      "pass": "aa58aa",
+      "id": 3
+    },
+    {
+      "email": "sfsdf@dfgdgdfg",
+      "pass": "dfgdfg",
+      "id": 4
+    },
+    {
+      "email": "sfsdf@dfgdgdfg",
+      "pass": "dfgdfg",
+      "id": 5
+    },
+    {
+      "email": "asad@sdfsdf",
+      "pass": "sdfsd",
+      "id": 6
+    },
+    {
+      "email": "sfsdfsd@fgdfgfd",
+      "pass": "dfgdfg",
+      "id": 7
+    }
+  ],
+  "register": [
+    {
+      "id": 1
+    },
+    {
+      "email": "jonathanzdebski@yahoo.com",
+      "pass": "fdfwfwfwf",
+      "name": "Jonathan Zdebski",
+      "id": 2
+    },
+    {
+      "email": "jonathanzdebski@yahoo.com",
+      "pass": "fdfwfwfwf",
+      "name": "Jonathan Zdebski",
+      "id": 3
+    },
+    {
+      "email": "fsgg@fghfgh",
+      "pass": "fghfgh",
+      "name": "asdaas",
+      "id": 4
+    }
+  ]
+}
